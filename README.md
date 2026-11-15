@@ -86,10 +86,13 @@ zahlst du direkt dort.
 
 ## Hilfe und Support
 
-Schreib an **[support@allnighty.com](mailto:support@allnighty.com)**. Am
-schnellsten geht es, wenn du kurz beschreibst, was passiert ist, und die
-Version dazuschreibst (sie steht im Menü der App, z. B. „AllNighty 0.2.0“).
-Schick bitte keine Passwörter oder API-Schlüssel mit.
+In der App: **Hilfe → „Problem melden…“**, oder direkt an
+**[support@allnighty.com](mailto:support@allnighty.com)**. Am schnellsten geht
+es mit einem Diagnosebericht (**Hilfe → „Diagnosebericht erstellen…“**): Er
+enthält Versionen, Einstellungen und das Ende der Protokolle; Passwörter,
+Schlüssel und E-Mail-Adressen werden vorher entfernt.
+
+Deinstallieren: **Hilfe → „AllNighty deinstallieren…“**.
 
 Issues und Pull Requests werden in diesem Repository nicht bearbeitet.
 
@@ -192,10 +195,13 @@ AllNighty is **free during the beta**. You pay your AI provider directly.
 
 ### Help and support
 
-Email **[support@allnighty.com](mailto:support@allnighty.com)**. We can help
-fastest if you briefly describe what happened and tell us your version (it is
-shown in the app's menu, e.g. "AllNighty 0.2.0"). Please never send passwords
-or API keys.
+In the app: **Hilfe → „Problem melden…“** (Help → Report a problem), or email
+**[support@allnighty.com](mailto:support@allnighty.com)**. Attaching a
+diagnostic report (**Hilfe → „Diagnosebericht erstellen…“**) helps most: it
+contains versions, settings and the end of the logs, with passwords, keys and
+e-mail addresses removed.
+
+Uninstall: **Hilfe → „AllNighty deinstallieren…“** (Help → Uninstall).
 
 Issues and pull requests are not handled in this repository.
 
