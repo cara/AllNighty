@@ -17,7 +17,7 @@ was du übernimmst.
 - **iPhone (optional):** Eine Begleit-App für iOS gibt es als TestFlight-Beta.
   Sie verbindet sich über dein privates iCloud.
 
-Website: **[allnighty.com](https://allnighty.com)**
+Website: **[allnighty.com](https://allnighty.com)** · [Häufige Fragen](https://allnighty.com/#faq)
 
 ## Download
 
@@ -50,12 +50,12 @@ AllNighty gibt es nur für den Mac.
 3. Wenn alles grün ist, auf **„Loslegen“** klicken.
 
 Besondere Rechte in den Systemeinstellungen brauchst du dafür nicht. Nur wenn
-du **Things 3** als Aufgabenquelle nutzt, fragt macOS nach *Festplattenvollzugriff*
-(damit AllNighty deine Things-Aufgaben lesen kann) und nach der Erlaubnis,
-Things zu steuern.
+du **Things 3** als Aufgabenquelle nutzt, fragt macOS einmal, ob AllNighty
+Things steuern darf. *Festplattenvollzugriff* braucht es nur, wenn du in den
+Einstellungen unter „Things Reader“ die Datenbank-Variante wählst.
 
-Solange Aufgaben laufen, hält AllNighty deinen Mac wach. Über Nacht am besten
-ans Netzteil hängen.
+Solange Aufgaben laufen, hält AllNighty deinen Mac wach. Häng ihn über Nacht
+ans Netzteil: Ein zugeklapptes MacBook im Akkubetrieb schläft trotzdem ein.
 
 ## Bitte lesen: Sicherheit
 
@@ -86,9 +86,10 @@ zahlst du direkt dort.
 
 ## Hilfe und Support
 
-Schreib an **[support@allnighty.com](mailto:support@allnighty.com)**. Bitte
-hänge den **Diagnosebericht** an (in der App unter **Hilfe →
-Diagnosebericht erstellen…**). Du kannst dir vorher ansehen, was drinsteht.
+Schreib an **[support@allnighty.com](mailto:support@allnighty.com)**. Am
+schnellsten geht es, wenn du kurz beschreibst, was passiert ist, und die
+Version dazuschreibst (sie steht im Menü der App, z. B. „AllNighty 0.2.0“).
+Schick bitte keine Passwörter oder API-Schlüssel mit.
 
 Issues und Pull Requests werden in diesem Repository nicht bearbeitet.
 
@@ -125,7 +126,7 @@ you review them and decide what to keep.
 - **iPhone (optional):** an iOS companion app is available as a TestFlight
   beta. It connects through your private iCloud.
 
-Website: **[allnighty.com](https://allnighty.com)**
+Website: **[allnighty.com/en](https://allnighty.com/en/)** · [FAQ](https://allnighty.com/en/#faq)
 
 ### Download
 
@@ -150,18 +151,20 @@ AllNighty is available for Mac only.
 
 1. Open the DMG, drag **AllNighty** into **Applications** and start it from
    there.
-2. The **"Bereit?" (Ready?)** checklist guides you through the rest. Each line
+2. The **„Bereit?“ (Ready?)** checklist guides you through the rest. Each line
    shows what is missing and has a button that sets it up:
    - Xcode Command Line Tools (Apple's basic developer tools)
    - GitHub CLI (`gh`) and signing in to GitHub
    - your AI provider's program and signing in to it
-3. When everything is green, click **"Loslegen" (Get started)**.
+3. When everything is green, click **„Loslegen“ (Start)**.
 
 No special permissions in System Settings are needed. Only if you use
-**Things 3** as your task source will macOS ask for *Full Disk Access* (so
-AllNighty can read your Things tasks) and for permission to control Things.
+**Things 3** as your task source will macOS ask once whether AllNighty may
+control Things. *Full Disk Access* is only needed if you pick the database
+option under „Things Reader“ in the settings.
 
-While tasks are running, AllNighty keeps your Mac awake. Plug it in overnight.
+While tasks are running, AllNighty keeps your Mac awake. Plug it in overnight:
+a closed MacBook on battery will still go to sleep.
 
 ### Please read: security
 
@@ -189,9 +192,10 @@ AllNighty is **free during the beta**. You pay your AI provider directly.
 
 ### Help and support
 
-Email **[support@allnighty.com](mailto:support@allnighty.com)**. Please attach
-the **diagnostic report** (in the app: **Hilfe → Diagnosebericht
-erstellen…**). You can look at what it contains first.
+Email **[support@allnighty.com](mailto:support@allnighty.com)**. We can help
+fastest if you briefly describe what happened and tell us your version (it is
+shown in the app's menu, e.g. "AllNighty 0.2.0"). Please never send passwords
+or API keys.
 
 Issues and pull requests are not handled in this repository.
 
